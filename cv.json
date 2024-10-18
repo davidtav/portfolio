@@ -17,17 +17,12 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "david-mclaurel",
         "url": "https://linkedin.com/in/david-mclaurel"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+      },    
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "davidtav",
         "url": "https://github.com/davidtav"
       }
     ]
@@ -189,12 +184,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Português",
+      "fluency": "Falante Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglês",
+      "fluency": "Avançado"
     }
   ],
   "interests": [{
